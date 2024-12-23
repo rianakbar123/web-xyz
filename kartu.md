@@ -41,12 +41,10 @@
     <br><br>
     <div id="orang"></div>
     <div class="tombol">
-        <a href="home.html" class="login">
+        <a href="home.md" class="login">
             HOME
         </a>
     </div>
-    <script>
-        const tableHTML = `
         <table>
             <thead>
                 <tr>
