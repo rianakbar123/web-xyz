@@ -9,9 +9,6 @@
    <h1>
     Selamat datang di web kami
    </h1>
-   <p>
-    silahkan klik masuk !!!
-   </p>
    <div class="tombol">
     <h1><a href="kartu.md" class="login">
      KK pertama
