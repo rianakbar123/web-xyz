@@ -128,11 +128,5 @@
                     <td>TIDAK/BELUM SEKOLAH</td>
                     <td>BELUM/TIDAK BEKERJA</td>
                 </tr>
-               
-            </tbody>
-        </table>
-        `;
-        document.getElementById("orang").innerHTML = tableHTML;
-    </script>
 </body>
 </html>
