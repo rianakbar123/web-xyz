@@ -1,37 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>kartu keluarga</title>
-    <style>
-        table{
-            width: 100%;
-            border-collapse: collapse;
-        }
-        table,th,td{
-            border: 1px solid black;
-        }
-        th,td{
-            padding: 8px;
-            text-align: left;
-        }
-        .tombol {
-            margin-top: 10px;
-        }
-        .tombol tombol {
-            padding: 20px 30px;
-            margin: 0 5px;
-            border: none;
-            border-radius: 40px;
-            cursor: pointer;
-            height: 20px;
-        }
-        .tombol .login {
-            background-color: rgb(43,191,254);
-            color: #000;
-            border-radius:1000vh;
-            width: 20vh;
-        }
-    </style>
+
 </head>
 <body>
     <h1>KARTU KELUARGA</h1>
