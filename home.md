@@ -63,12 +63,12 @@
     silahkan klik masuk !!!
    </p>
    <div class="tombol">
-    <h1><a href="kartu.html" class="login">
+    <h1><a href="kartu.md" class="login">
      KK pertama
     </a>
     </div>
     <div class="tombol">
-    <h1><a href="kartu2.html" class="login">
+    <h1><a href="kartu2.md" class="login">
      KK kedua
     </a>
     </div>
