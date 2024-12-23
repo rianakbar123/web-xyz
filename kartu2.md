@@ -11,7 +11,7 @@
     <br><br>
     <div id="orang"></div>
     <div class="tombol">
-        <a href="home.md" class="login">
+        <a href="README.md" class="login">
             HOME
         </a>
     </div>
