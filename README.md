@@ -10,12 +10,12 @@
     Selamat datang di web kami
    </h1>
    <div class="tombol">
-    <h1><a href="kartu.md" class="login">
+    <h1><a href="kartu.html" class="login">
      KK pertama
     </a>
     </div>
     <div class="tombol">
-    <h1><a href="kartu2.md" class="login">
+    <h1><a href="kartu2.html" class="login">
      KK kedua
     </a>
     </div>
