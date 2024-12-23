@@ -4,36 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>kartu keluarga</title>
-    <style>
-        table{
-            width: 100%;
-            border-collapse: collapse;
-        }
-        table,th,td{
-            border: 1px solid black;
-        }
-        th,td{
-            padding: 8px;
-            text-align: left;
-        }
-        .tombol {
-            margin-top: 10px;
-        }
-        .tombol tombol {
-            padding: 20px 30px;
-            margin: 0 5px;
-            border: none;
-            border-radius: 40px;
-            cursor: pointer;
-            height: 20px;
-        }
-        .tombol .login {
-            background-color: rgb(43,191,254);
-            color: #000;
-            border-radius:1000vh;
-            width: 20vh;
-        }
-    </style>
 </head>
 <body>
     <h1>KARTU KELUARGA</h1>
@@ -47,8 +17,6 @@
             HOME
         </a>
     </div>
-    <script>
-        const tableHTML = `
         <table>
             <thead>
                 <tr>
@@ -86,10 +54,5 @@
                     <td>TAMAT SD/SEDERAJAT</td>
                     <td>MENGURUS RUMAH TANGGA</td>
                 </tr>
-            </tbody>
-        </table>
-        `;
-        document.getElementById("orang").innerHTML = tableHTML;
-    </script>
 </body>
 </html>
